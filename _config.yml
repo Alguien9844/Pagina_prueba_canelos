@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Evento organizado por ChipUSM, asociación estudiantil 
   de microelectrónica de la UTFSM (Valparaíso, Chile).
 baseurl: "/CANELOS" # the subpath of your site, e.g. /blog
-url: "https://chipusm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://paginadepruebatestunodostres.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
